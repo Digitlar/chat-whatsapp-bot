@@ -1,0 +1,15 @@
+
+{
+  "name": "luxor-whatsapp-bot",
+  "version": "1.0.0",
+  "description": "Chatbot da Luxor Imobiliária para WhatsApp",
+  "main": "LuxorBot.js",
+  "scripts": {
+    "start": "node LuxorBot.js"
+  },
+  "author": "ChatGPT",
+  "license": "MIT",
+  "dependencies": {
+    "venom-bot": "^4.0.0"
+  }
+}
